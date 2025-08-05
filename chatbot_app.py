@@ -12,10 +12,42 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics import classification_report, accuracy_score
 import joblib
+import mysql.connector
 
 # Ajoutez en tête de fichier
 import os
 os.environ["TOKENIZERS_PARALLELISM"] = "false"  # Essentiel pour Railway
+
+
+def con_BDD():
+    # Connexion à la base de données MySQL
+    conn = mysql.connector.connect(
+        host="mysql-danielmambimbi.alwaysdata.net",
+        user="417759_promt",  # Remplace par ton utilisateur MySQL
+        password="0896966760",  # Mets ton mot de passe MySQL
+        database="danielmambimbi_promt",
+        port=3306
+    )
+    return conn
+
+# new promt
+def New_promt(promt):
+    conn=con_BDD()
+    cursor=conn.cursor()
+    try:
+        query = "INSERT INTO promt (promt) values (%s)"
+        cursor.execute(query, (promt,))
+        conn.commit()
+        response="Enregistrement reussi"
+    except:
+        response="Enregistrement a echoué"
+    cursor.close()
+    conn.close()
+    return response
+# new promt
+
+
+
 
 file=os.path.dirname(os.path.abspath(__file__))
 # 🔹 Charger le fichier CSV
@@ -145,25 +177,21 @@ def chat():
     intent_res=response["det_intent_res"]
     input_error=response["input_error"]
     response=response["res_chat"]
-    
-    file=os.path.dirname(os.path.abspath(__file__))
-    fichier=file+"/promts.txt"
-    ajout=f"promt:{user_input}\t intent_quest={intent_quest} \t intent_res={intent_res}\t scrore={score}\n"
-
-    with open(fichier,"a",encoding="utf-8") as f:
-        f.write(ajout)
+ 
+    promt=f"promt:{user_input}\t intent_quest={intent_quest} \t intent_res={intent_res}\t scrore={score}\n"
+    save_promt=New_promt(promt)
     
     all_response={
                 "response_trans":response,
                 "att":att,
-                "input_error":input_error
+                "input_error":input_error,
+                "save_promt":save_promt
             }
     response=all_response
     return response
 # [...] (tout le reste de votre code)
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 10000))
+    port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port, debug=False)
-
 
