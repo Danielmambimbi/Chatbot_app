@@ -22,7 +22,7 @@ file=os.path.dirname(os.path.abspath(__file__))
 df = pd.read_csv(file + "/faq_222.csv",encoding='ISO-8859-1', sep=';')  # Assure-toi que ce fichier est dans le même dossier
 
 # 🔹 Séparer les données
-X = df["question"]
+X = df["reponse"]
 y = df["intent"]
 
 
@@ -165,4 +165,5 @@ def chat():
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port, debug=False)
+
 
