@@ -1,0 +1,6 @@
+flask==3.0.2
+gunicorn==21.2.0
+sentence-transformers==2.2.2  # Version spécifique pour stabilité
+torch==2.0.1 --extra-index-url https://download.pytorch.org/whl/cpu  # Version CPU
+pandas==1.5.3
+scikit-learn==1.2.2

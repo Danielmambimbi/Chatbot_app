@@ -1,0 +1,235 @@
+question;intent;reponse
+Bonjour;salutation;Bonjour ! Comment puis-je vous aider aujourd'hui ?
+Bonsoir;salutation;Bonsoir ! Si vous avez des questions, je suis là pour vous répondre ??
+Salut;salutation;Salut ! En quoi puis-je vous assister ?
+Bonjour mon ami ;salutation;Bonjour, nous sommes heureux de vous accueillir, Que puis-je faire pour vous ?
+Bonsoir, j'ai une petite question;salutation;Bonsoir, merci de nous avoir contactés. Comment puis-je vous aider ?
+Yo, quelqu'un peut m'aider ?;salutation;Salut ??, nous sommes disponibles pour vous aider
+Salut ici;salutation;Salut ! Super de vous voir ici ??
+Salut salut;salutation;Coucou ?? que puis-je faire pour vous aujourd'hui
+Bon après midi;salutation;Hello ! Une question ? Je suis là pour vous
+cc;salutation;Bonjour, comment puis-je vous aider ?
+slt;salutation;Salut, que puis-je faire pour vous aujourd'hui ?
+slt frérot;salutation;Salut ! Super de vous voir ici ??
+salut toi ;salutation;Bonjour ! Comment puis-je vous aider aujourd'hui ?
+Salut, comment ca va;salutation;Salut ! En quoi puis-je vous assister ?
+Hey;salutation;Hey, Comment puis-je vous être utilse ?
+Hey, j'ai besoin d'aide;salutation;Hey, Comment puis-je vous être utilse ?
+Salut, est ce que vous êtes là;salutation;Salut, je suis là pour vous aider. Que souhaitez-vous faire ?
+Coucou;salutation;Coucou ! En quoi puis-je vous aider ?
+Bonjour poto;salutation;Bonjour ! Vous cherchez quelque chose de précis ?
+Salut poto;salutation;Salut, comment puis-je vous rendre service ??
+Bonjour mon pote;salutation;Bonjour ! Vous cherchez quelque chose en particulier ?
+Salut frère;salutation;Salut ! N'hésitez pas à me dire comment je peux vous aider
+Bonjour mon ami;salutation;Bonjour, bienvenue sur notre site comment puis-je vous assiter ?
+Est-ce que tu as un nom ?;qui_es_tu;Vous parlez à ShoplyBot, l'assistant du service client ??
+Je parle à qui;qui_es_tu;Vous parlez à ShoplyBot, l'assistant du service client ??
+Tu as un nom ou pas ? ;qui_es_tu;Je suis ShoplyBot, en suoi puis-je vous aider ?
+C'est quoi nom;qui_es_tu;Mon nom est ShoplyBot. Je suis là pour répondre à vos questions ??
+tu es ?;qui_es_tu;Je suis ShoplyBot, en suoi puis-je vous aider ?
+C'est quoi déjà ton nom;qui_es_tu;Moi, c'est ShoplyBot. Comment puis-je vous aider ?
+Tu es qui déjà;qui_es_tu;Je suis ShoplyBot, en suoi puis-je vous aider ?
+Tu peux me dire ton nom ?;qui_es_tu;Mon nom est ShoplyBot. Je suis là pour répondre à vos questions ??
+C'est quoi ton nom;qui_es_tu;Vous parlez à ShoplyBot, l'assistant du service client ??
+Tu t'appelles comment ?;qui_es_tu;Hey, on m'appelle ShoplyBot, je suis là pour t'aider ??
+Quel est ton nom ?;qui_es_tu;Salut ! Mon petit nom, c'est ShoplyBot ??
+C'est quoi ton prénom;qui_es_tu;Mon nom est ShoplyBot. Je suis là pour répondre à vos questions ??
+T'as un nom;qui_es_tu;Vous parlez à ShoplyBot, l'assistant du service client ??
+qui es tu ?;qui_es_tu;Vous parlez à ShoplyBot, l'assistant du service client ??
+Comment tu t'appelles ?;qui_es_tu;Je suis ShoplyBot, en suoi puis-je vous aider ?
+Salut c'est qui ooh ;salutation_qui_es_tu;Bonjour, je m'appelle ShoplyBot et je suis là pour vous aider ??
+yo ! T'es qui mec;salutation_qui_es_tu;Salut ! ShoplyBot à votre service? Comment puis-je vous assister ?
+salutation tu t'appel comment ;salutation_qui_es_tu;Salut ! ShoplyBot à votre service? Comment puis-je vous assister ?
+bsr, qui es tu;salutation_qui_es_tu;Bonsoir, je suis ShoplyBot, votre assistant, Comment puis-je vous aider ?
+bjr t'es qui bro;salutation_qui_es_tu;Bonjour, je m'appelle ShoplyBot et je suis là pour vous aider ??
+hein t'es qui;salutation_qui_es_tu;Salut, moi c'est ShoplyBot. Si tu as des questions, je suis là pour y répondre ??
+hein tu es quoi;salutation_qui_es_tu;Coucou, je suis ShoplyBot comment puis-je t'assister aujourd'hui ? ??
+Bonjour, qui es tu exactement ?;salutation_qui_es_tu;Bonjour, je m'appelle ShoplyBot et je suis là pour vous aider ??
+Bonjour, tu t'appelles comment ?;salutation_qui_es_tu;Coucou, je suis ShoplyBot comment puis-je t'assister aujourd'hui ? ??
+Coucou, tu peux me dire ton nom ?;salutation_qui_es_tu;Coucou, mon nom est ShoplyBot. Si tu as des questions, je suis là pour y répondre ??
+Salut, donnes moi ton nom;salutation_qui_es_tu;Salut ! ShoplyBot à votre service? Comment puis-je vous assister ?
+Bonsoir, tu es quoi exactement;salutation_qui_es_tu;Bonsoir, je suis ShoplyBot, votre assistant, Comment puis-je vous aider ?
+Bonsoir, tu es un assistant virtuel, c'est ca ? Quel est ton nom ?;salutation_qui_es_tu;Bonsoir, je suis ShoplyBot, votre assistant, Comment puis-je vous aider ?
+Hey, t'es qui ?;salutation_qui_es_tu;Salut, moi c'est ShoplyBot. Si tu as des questions, je suis là pour y répondre ??
+Quelle est la procédure pour commander ?;passer_commande;"Pour passer une commande, ajoutez les produits au panier, puis cliquer sur ""commander"" et suivez les instructions de paiement."
+Je ne sais pas comment commander;passer_commande;"Mettez les produits dans votre panier, puis appuyez sur ""commander"". Suivez les étapes pour finaliser votre commande"
+Comment passer une commande ?;passer_commande;"Ajouter vos articles au panier, puis cliquez sur ""Commander"". Suivez les étapes pour valider et finaliser votre commande"
+Quelle est la procédure pour commander ?;passer_commande;"Pour passer une commande, ajoutez les produits au panier, puis cliquer sur ""commander"" et suivez les instructions de paiement."
+Où cliquer pour passer ma commande ?;passer_commande;"Placez les articles dans votre panier, cliquer ensuite sur ""commander"" et suivez ensuite les étapes pour compléter votre commande"
+Je ne sais pas comment commander;passer_commande;"Pour passer une commande, ajoutez les produits au panier, puis cliquer sur ""commander"" et suivez les instructions de paiement."
+Comment ça marche pour acheter ?;passer_commande;"Ajouter les produits à votre panier, puis cliquer sur ""Commander"", Suivez ensuite les instructions à l'écran pour finaliser votre commande"
+J’ai besoin d’aide pour faire une commande;passer_commande;"Ajouter les produits à votre panier, puis cliquer sur ""Commander"", Suivez ensuite les instructions à l'écran pour finaliser votre commande"
+Je veux finaliser mon achat;passer_commande;"Selectionnez les produits souhaités, ajoutez-les à votre panier, puis cliquez sur ""Commander"". Suivez les instructions pour finaliser l'achat"
+Je voudrais faire un achat;passer_commande;"Selectionnez les produits souhaités, ajoutez-les à votre panier, puis cliquez sur ""Commander"". Suivez les instructions pour finaliser l'achat"
+Je voudrais commander un produit, pouvez vous m'aider ?;passer_commande;"Selectionnez les produits souhaités, ajoutez-les à votre panier, puis cliquez sur ""Commander"". Suivez les instructions pour finaliser l'achat"
+Comment puis-je passer une commande sur votre site;passer_commande;"Pour passer une commande, ajoutez les produits au panier, puis cliquer sur ""commander"" et suivez les instructions de paiement."
+Où puis je passer commande pour mes articles;passer_commande;"Mettez les produits dans votre panier, puis appuyez sur ""commander"". Suivez les étapes pour finaliser votre commande"
+Je désire effectuer une commande, que dois je faire ?;passer_commande;"Ajouter les produits à votre panier, puis cliquer sur ""Commander"", Suivez ensuite les instructions à l'écran pour finaliser votre commande"
+Comment faire pour acheter un produit ;passer_commande;"Pour passer une commande, ajoutez les produits au panier, puis cliquer sur ""commander"" et suivez les instructions de paiement."
+Comment commander un produit ;passer_commande;"Pour passer une commande, ajoutez les produits au panier, puis cliquer sur ""commander"" et suivez les instructions de paiement."
+Est-ce que je peux commander ici ?;passer_commande;"Placez les articles dans votre panier, cliquer ensuite sur ""commander"" et suivez ensuite les étapes pour compléter votre commande"
+Commander un article, c'est possible ?;passer_commande;"Ajouter les produits à votre panier, puis cliquer sur ""Commander"", Suivez ensuite les instructions à l'écran pour finaliser votre commande"
+Comment commander un article ?;passer_commande;"Selectionnez les produits souhaités, ajoutez-les à votre panier, puis cliquez sur ""Commander"". Suivez les instructions pour finaliser l'achat"
+Je voudrais passer une commande, que dois-je faire ?;passer_commande;"Selectionnez les produits souhaités, ajoutez-les à votre panier, puis cliquez sur ""Commander"". Suivez les instructions pour finaliser l'achat"
+Je souhaite commander un produit;passer_commande;Pour acheter un produit, cliquez sur 'Ajouter au panier' et finalisez la commande.
+Je veux acheter un produit;passer_commande;Pour acheter un produit, cliquez sur 'Ajouter au panier' et finalisez la commande.
+Comment acheter quelque chose sur votre site ?;passer_commande;"Ajoutez les articles à votre panier, puis cliquer sur ""commander"" et suivez les étapes de validation."
+Je peux trouver un djine chez vous ;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+vous avez des patalons ?;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+Regardes un peu dans votre magasin si il ya de box;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+je peux trouver des sacs à main  ici ?;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+les strings sont disponible ? ;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+ah seigneur je cherche un patalon noir ;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+bonjour vous avez de pc;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+je besion des souris sans fil;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+vous vendez aussi les cahiers ?;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+Je cherche un jean;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+Avez-vous des baskets;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+Est-ce que les veste sont disponibles ?;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+Je voudrais savoir si vous avez des bijoux;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+Y a-t-il des jackets;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+Pouvez vous me montrer les shirts;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+Je cherche des sacs qui offrent une bonne garantie;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+Est-ce que vous proposez des robes ;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+Il y a des jupes qui ne sont pas trop chers;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+Est-ce que vous avez des parfums chez vous ;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+Vous proposez aussi des jupes pour enfants;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+Verifies si il y a des chaussures chez vous ;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+je peux trouver des jeans ? ;recherche_produit;Désolé actuellement je ne peux pas interagir avec la base des données 
+Livrez-vous dans toute la RDC ?;zone_livraison;Pour l'instant, nous ne livros que dans la ville de Matadi. Nous espérons pouvoir étendre notre zone de livraison à d'autres régions dans le futur. Merci pour votre compréhension !
+Est-ce que vous expédiez partout au Congo ?;zone_livraison;Pour l'instant, nous ne livros que dans la ville de Matadi. Nous espérons pouvoir étendre notre zone de livraison à d'autres régions dans le futur. Merci pour votre compréhension !
+Pouvez-vous livrer dans mon quartier ?;zone_livraison;Pour le moment, nous ne livrons qu'à Matadi. Si vous résidez en dehors de cette ville, nous travaillons activement à étendre notre service à d'autres zones.
+Quels sont les pays que vous desservez ?;zone_livraison;Actuellement, nous livrons exclusivement dans la ville de matadi. Cependant, nous espérons élargir notre couverture dans un avenir proche. Restez à l'écoute pour les futures mise à jour !
+Faites-vous la livraison en province ?;zone_livraison;Actuellement, nous livrons exclusivement dans la ville de matadi. Cependant, nous espérons élargir notre couverture dans un avenir proche. Restez à l'écoute pour les futures mise à jour !
+La livraison est-elle possible dans ma ville ?;zone_livraison;Actuellement, nous livrons uniquement dans la ville de Matadi. Si vous êtes situé dans cette ville, nous serons heureux de traiter votre commande. Pour les autres régions, nous vous prions de biens vouloir patienter en attendant que nous étendrons notre zone de livraison,
+Livrez-vous dans ma région ?;zone_livraison;Actuellement, nous livrons uniquement dans la ville de Matadi. Si vous êtes situé dans cette ville, nous serons heureux de traiter votre commande. Pour les autres régions, nous vous prions de biens vouloir patienter en attendant que nous étendrons notre zone de livraison,
+Est-ce que vous livrez à l’international ?;zone_livraison;Actuellement, nous livrons exclusivement dans la ville de matadi. Cependant, nous espérons élargir notre couverture dans un avenir proche. Restez à l'écoute pour les futures mise à jour !
+Je suis à Goma, puis-je commander ?;zone_livraison;Actuellement, nous livrons exclusivement dans la ville de matadi. Cependant, nous espérons élargir notre couverture dans un avenir proche. Restez à l'écoute pour les futures mise à jour !
+Expédiez-vous hors Kinshasa ?;zone_livraison;Actuellement, nous livrons exclusivement dans la ville de matadi. Cependant, nous espérons élargir notre couverture dans un avenir proche. Restez à l'écoute pour les futures mise à jour !
+Je suis en Angola, Pouvez vous livrer ici ?;zone_livraison;Pour l'instant, nous ne livros que dans la ville de Matadi. Nous espérons pouvoir étendre notre zone de livraison à d'autres régions dans le futur. Merci pour votre compréhension !
+Proposez-vous des livraisons dans les zones reculées ?;zone_livraison;Actuellement, nous pouvons livrer uniquement  dans la ville de matadi. Nous sommes en train de développer des solutions étendre nos livraisons aux zones plus reculées à l'avenir. Restez à l'écoute pour les futures mise à jour !
+Est-ce que vous livrez à Luanda ?;zone_livraison;Pour l'instant, nous ne livros que dans la ville de Matadi. Nous espérons pouvoir étendre notre zone de livraison à d'autres régions dans le futur. Merci pour votre compréhension !
+Je suis à Belgique, vous livrez aussi ici ? ;zone_livraison;Actuellement, nous livrons exclusivement dans la ville de matadi. Cependant, nous espérons élargir notre couverture dans un avenir proche. Restez à l'écoute pour les futures mise à jour !
+Livrez vous dans ma région ?;zone_livraison;Actuellement, nous livrons uniquement dans la ville de Matadi. Si vous êtes situé dans cette ville, nous serons heureux de traiter votre commande. Pour les autres régions, nous vous prions de biens vouloir patienter en attendant que nous étendrons notre zone de livraison,
+Est-ce que vous proposez la livraison internationale ?;zone_livraison;Actuellement, nous livrons exclusivement dans la ville de matadi. Cependant, nous espérons élargir notre couverture dans un avenir proche. Restez à l'écoute pour les futures mise à jour !
+Livrez-vous dans la ville de BOMA;zone_livraison;Actuellement, nous livrons uniquement dans la ville de Matadi. Si vous êtes situé dans cette ville, nous serons heureux de traiter votre commande. Pour les autres régions, nous vous prions de biens vouloir patienter en attendant que nous étendrons notre zone de livraison,
+Livrez vous aussi à l'étranger;zone_livraison;Actuellement, nous livrons exclusivement dans la ville de matadi. Cependant, nous espérons élargir notre couverture dans un avenir proche. Restez à l'écoute pour les futures mise à jour !
+Est-ce que je peux payer en espèces ?;moyen_paiement;Vous pouvez payer par carte bancaire, PayPal ou mobile money.
+Acceptez-vous les chèques ?;moyen_paiement;Vous pouvez payer par carte bancaire, PayPal ou mobile money.
+Puis-je payer avec Apple Pay ?;moyen_paiement;Nous acceptons les paiements par carte bancaire (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, et paiement en plusieurs fois avec Klarna.
+Est-ce que je peux payer en crypto ?;moyen_paiement;Nous proposons plusieurs moyens de paiement sécurisés : \n  ?? Cartes bancaires (Visa, MasterCard, American Express) \n ??? PayPal \n ?? Apple Pay / Google Pay (si applicable) \n?? Cartes cadeaux et codes promotionnels
+Puis-je payer avec mobile money ?;moyen_paiement;Nous acceptons les paiements par carte bancaire (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, et paiement en plusieurs fois avec Klarna.
+Je peux aussi payer avec M-PESA;moyen_paiement;Nous acceptons les paiements par carte bancaire (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, et paiement en plusieurs fois avec Klarna.
+Vous acceptez aussi aussi mobile money;moyen_paiement;Nous proposons plusieurs moyens de paiement sécurisés : \n  ?? Cartes bancaires (Visa, MasterCard, American Express) \n ??? PayPal \n ?? Apple Pay / Google Pay (si applicable) \n?? Cartes cadeaux et codes promotionnels
+Comment régler ma commande ?;moyen_paiement;Nous acceptons les paiements par carte bancaire (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, et paiement en plusieurs fois avec Klarna.
+Accepter le paiement à crédit ;moyen_paiement;Nous acceptons les paiements par carte bancaire (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, et paiement en plusieurs fois avec Klarna.
+On peut payer au comptant ;moyen_paiement;Nous acceptons les paiements par carte bancaire (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, et paiement en plusieurs fois avec Klarna.
+Comment payer ma commande ?;moyen_paiement;Vous pouvez payer par carte bancaire, PayPal ou mobile money.
+Quels sont les modes de paiement disponibles ?;moyen_paiement;Nous proposons plusieurs moyens de paiement sécurisés : \n  ?? Cartes bancaires (Visa, MasterCard, American Express) \n ??? PayPal \n ?? Apple Pay / Google Pay (si applicable) \n?? Cartes cadeaux et codes promotionnels
+Puis-je payer avec PayPal ?;moyen_paiement;Oui, PayPal est l’un des moyens de paiement proposés.
+Acceptez-vous les cartes bancaires ?;moyen_paiement;Vous pouvez payer par carte bancaire, PayPal ou mobile money.
+Puis-je utiliser Apple Pay ?;moyen_paiement;Nous proposons plusieurs moyens de paiement sécurisés : \n  ?? Cartes bancaires (Visa, MasterCard, American Express) \n ??? PayPal \n ?? Apple Pay / Google Pay (si applicable) \n?? Cartes cadeaux et codes promotionnels
+Puis-je payer à la livraison ?;moyen_paiement;Vous pouvez payer par carte bancaire, PayPal ou mobile money.
+Quels sont les moyens de paiement acceptés ?;moyen_paiement;Nous acceptons les paiements par carte bancaire (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, et paiement en plusieurs fois avec Klarna.
+Comment puis-je payer ?;moyen_paiement;Nous acceptons les paiements par carte bancaire (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, et paiement en plusieurs fois avec Klarna.
+Quels types de paiement acceptez-vous ?;moyen_paiement;Nous acceptons les paiements par carte bancaire (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, et paiement en plusieurs fois avec Klarna.
+Est-ce que vous acceptez PayPal ?;moyen_paiement;Nous acceptons les paiements par carte bancaire (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, et paiement en plusieurs fois avec Klarna.
+Quels sont les moyens de paiement disponibles ?;moyen_paiement;Nous acceptons les paiements par carte bancaire (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, et paiement en plusieurs fois avec Klarna.
+Comment payer sur votre site ?;moyen_paiement;Nous proposons plusieurs moyens de paiement sécurisés : \n  ?? Cartes bancaires (Visa, MasterCard, American Express) \n ??? PayPal \n ?? Apple Pay / Google Pay (si applicable) \n?? Cartes cadeaux et codes promotionnels
+Quelles cartes de crédit sont acceptées ?;moyen_paiement;Nous acceptons les paiements par carte bancaire (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, et paiement en plusieurs fois avec Klarna.
+Est-ce que je peux payer avec mobile money ?;moyen_paiement;Vous pouvez payer par carte bancaire, PayPal ou mobile money.
+Acceptez-vous le paiement par Orange Money ?;moyen_paiement;Vous pouvez payer par carte bancaire, PayPal ou mobile money.
+Quels sont vos modes de règlement ?;moyen_paiement;Nous acceptons les paiements par carte bancaire (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, et paiement en plusieurs fois avec Klarna.
+Est-ce que vous acceptez PayPal ?;moyen_paiement;Nous acceptons les paiements par carte bancaire (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, et paiement en plusieurs fois avec Klarna.
+Comment fonctionne le paiement ?;moyen_paiement;Nous proposons plusieurs moyens de paiement sécurisés : \n  ?? Cartes bancaires (Visa, MasterCard, American Express) \n ??? PayPal \n ?? Apple Pay / Google Pay (si applicable) \n?? Cartes cadeaux et codes promotionnels
+Puis-je utiliser ma carte bancaire ?;moyen_paiement;Nous acceptons les paiements par carte bancaire (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, et paiement en plusieurs fois avec Klarna.
+Est-ce que le paiement est sécurisé ?;paiement_securise;Oui, toutes les transactions sont cryptées et sécurisées.
+Est-ce que c’est sûr de payer en ligne ?;paiement_securise;Absolument, notre plateforme utilise un protocole de sécurité.
+Est-ce que le paiement est sécurisé ?;paiement_securise;Oui bien-sûr, tout vos paiements dans notre site sont sécurisés
+Est-ce que c’est sûr de payer en ligne ?;paiement_securise;Absolument, notre plateforme utilise un protocole de sécurité.
+Mon paiement est-il bien protégé ?;paiement_securise;Oui, toutes les transactions sont cryptées et sécurisées.
+Le paiement est-il fiable ?;paiement_securise;Absolument, notre plateforme utilise un protocole de sécurité.
+Y a-t-il un risque de piratage lors du paiement ?;paiement_securise;Soyez tranquille, toutes les transactions sont cryptées et sécurisées.
+La transaction est-elle sécurisée ?;paiement_securise;Oui, toutes les transactions sont cryptées et sécurisées.
+Comment garantissez-vous la sécurité du paiement ?;paiement_securise;Absolument, notre plateforme utilise un protocole de sécurité.
+Mon argent est-il en sécurité sur votre site ?;paiement_securise;Oui, toutes les transactions sont cryptées et sécurisées.
+Utilisez-vous un protocole SSL ?;paiement_securise;Oui, toutes les transactions sont cryptées et sécurisées.
+Les paiements sont-ils cryptés ?;paiement_securise;Oui, toutes les transactions sont cryptées et sécurisées.
+Quelqu'un m'expliquer c'est quoi ce Shoply ;parle_orga;Parler de l'entreprise Shoply
+Quelqu'un m'expliquer c'est quoi ce site ;parle_orga;Parler de l'entreprise Shoply
+Je suis tomber ici par hasard c'est quoi ?;parle_orga;Parler de l'entreprise Shoply
+Un ami m'a donné le lien de votre site mais je ne comprend pas;parle_orga;Parler de l'entreprise Shoply
+c'est quoi cette plateforme ???;parle_orga;Parler de l'entreprise Shoply
+j'aimerais que tu me parle de votre plateforme ;parle_orga;Parler de l'entreprise Shoply
+j'aimerais que tu me parle de vous ;parle_orga;Parler de l'entreprise Shoply
+j'aimerais m'informer à propose de vous ;parle_orga;Parler de l'entreprise Shoply
+C'est quoi shoply ;parle_orga;Parler de l'entreprise Shoply
+Expliques  votre entité;parle_orga;Parler de l'entreprise Shoply
+expliques votre organisation;parle_orga;Parler de l'entreprise Shoply
+c'est l'importance de votre site ;parle_orga;Parler de l'entreprise Shoply
+Parles moi de vous;parle_orga;Parler de l'entreprise Shoply
+parles un peu de votre entreprise;parle_orga;Parler de l'entreprise Shoply
+C'est quoi ce site ;parle_orga;Parler de l'entreprise Shoply
+Quelle est la procedure de la création d'un compte ;creer_compte;"Pour créer un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+comment ouvrir un compte client;creer_compte;"Pour ouvrir un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+comment créer un compte dans votre plateforme;creer_compte;"Pour avoir un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+comment faire pour avoir son compte chez vous;creer_compte;"Pour avoir un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+comment faire pour avoir son compte chez Shoply;creer_compte;"Pour avoir un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+quoi faire pour avoir un compte ;creer_compte;"Pour avoir un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+quelle est la magie pour créer un compte;creer_compte;"Pour créer un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+quelle est la magie pour avoir un compte;creer_compte;"Pour créer un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+j'aimerais bien avoir un compte;creer_compte;"Pour créer un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+Comment faire pour avoir un compte;creer_compte;"Pour créer un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+Où créer un compte ;creer_compte;"Pour créer un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+Comment créer un compte ?;creer_compte;"Pour créer un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+Comment faire créer un compte chez vous;creer_compte;"Pour avoir un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+comment puis-je fais créer un compte ;creer_compte;"Pour ouvrir un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+je en de cree un compte;creer_compte;"Pour créer un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+je envie de créer un compte;creer_compte;"Pour créer un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+on peux créer des comptes dans votre site;creer_compte;"Pour avoir un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+quelle est la prcedure pour avoir un compte;creer_compte;"Pour créer un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+tu peux m'aider à créer mon compte ;creer_compte;"Pour créer un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+c'est possible de créer un compte;creer_compte;"Pour créer un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+comment faire pour créer un compte;creer_compte;"Pour créer un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+Comment créer un compte ?;creer_compte;"Pour créer un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+Je veux m’inscrire sur votre site;creer_compte;"Pour créer un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+Où créer un compte client ?;creer_compte;"Pour créer un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+Je ne suis pas encore inscrit, comment faire ?;creer_compte;"Pour avoir un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+Procédure pour ouvrir un compte;creer_compte;"Pour ouvrir un compte : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+Créer un nouveau profil;creer_compte;"Voici la procédure : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+Je souhaite devenir membre;creer_compte;"Voici comment procédure : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+Je veux créer un profil client;creer_compte;"Voici comment procédure : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+Je dois m’inscrire pour commander ?;creer_compte;"Voici la procédure : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+Comment m’enregistrer ?;creer_compte;"Voici la procédure : <br> 1.	Cliquer sur l’icône de profil située en haut à droite de la page ou sur le bouton « Add to cart » (Ajouter au panier) lorsqu’ils survolent un produit <br> 2.	cliquer sur « Créer un compte ». <br> 3.	renseigner vos informations <br> 4.	cliquer sur « Suivant » <br> 5.	Saisir un nom d’utilisateur (username) <br> 6.	Choisir une image de profil en cliquant sur l’icône « + ». (Facultatif) <br> 7.	cliquer sur « Enregistrer »"
+Comment vas-tu;sante_chat;Je vais bien merci et vous
+comment;sante_chat;je vais bien et toi  ?
+tu vas bien ?;sante_chat;Oui ça va et toi ?
+ca roule ?;sante_chat;Oui je vais bien et vous ?
+Tout vas bien ?;sante_chat;Je vais bien et de ton coté ?
+Se comment ;sante_chat;ça va ça va j'espère que c'est de même pour vous  
+tu vas ok ?;sante_chat;Oui je vais bien et vous ?
+Comment vas-tu bro;sante_chat;Oui ça va et toi ?
+t'es en vie fréro;sante_chat;Je vais bien et de ton coté ?
+tout va comment tu veux mec;sante_chat;Je vais bien et de ton coté ?
+mec comment vas-tu;sante_chat;Je vais bien et de ton coté ?
+frère tout va bien de ton cote ?;sante_chat;Je vais bien et de ton coté ?
+Vieux, j'espère que tu vas bien ;sante_chat;Je vais bien et de ton coté ?
+j'espère que ca va ;sante_chat;Je vais bien et de ton coté ?
+ca va ?;sante_chat;Je vais bien et de ton coté ?
+ça va neuf ;sante_chat;ça va ça va j'espère que c'est de même pour vous  
+ca va frérot;sante_chat;ça va ça va j'espère que c'est de même pour vous  
+cv toi;sante_chat;ça va ça va j'espère que c'est de même pour vous  
+cv mec ;sante_chat;ça va ça va j'espère que c'est de même pour vous  
+cv enfoirés ;sante_chat;je vais bien et toi  ?
+euh toi cv;sante_chat;je vais bien et toi  ?
+mon poto cv;sante_chat;je vais bien et toi  ?
+ah toi, cv;sante_chat;je vais bien et toi  ?
+yo comment vas-tu ;sante_chat;ça va ça va j'espère que c'est de même pour vous  
+vx ! Se comment ;sante_chat;ça va ça va j'espère que c'est de même pour vous  
+j'aimerais savoir tu vas bien ?;sante_chat;ça va ça va j'espère que c'est de même pour vous  
+dis moi, tu vas bien ;sante_chat;ça va ça va j'espère que c'est de même pour vous  
+dis moi un peu tu vas bien ;sante_chat;je vais bien et toi  ?
+dis moi un peu comment vas-tu ;sante_chat;je vais bien et toi  ?
+cv;sante_chat;je vais bien et toi  ?
+cv fréro;sante_chat;je vais bien et toi  ?
+cv mon ami;sante_chat;je vais bien et toi  ?
