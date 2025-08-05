@@ -1,7 +1,8 @@
 flask==3.0.2
-flask-cors==4.0.0  # <-- AJOUTEZ CETTE LIGNE
+flask-cors==4.0.0
 gunicorn==21.2.0
 sentence-transformers==2.2.2
+huggingface-hub==0.19.4  # Version critique !
 torch==2.2.2 --extra-index-url https://download.pytorch.org/whl/cpu
 transformers==4.40.2
 pandas==2.0.3
